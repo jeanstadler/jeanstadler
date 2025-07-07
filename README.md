@@ -1,4 +1,4 @@
-## Salut ! 👋 Je suis Jean STADLER
+## Hello ! 👋 
 
 ![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=jeanstadler&hide_rank=true&hide=issues,contribs,prs,stars&theme=tokyonight)
 
